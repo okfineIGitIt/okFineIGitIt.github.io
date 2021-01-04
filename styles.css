@@ -1,6 +1,22 @@
 body {
   background-color: powderblue;
   font-family: 'Montserrat', sans-serif;
+
+  #portfolio-pg-header {
+    align-items: center;
+  }
+
+  #projects-header {
+    align-items: center;
+  }
+
+  #about-header {
+    align-items: center;
+  }
+
+  #contact-header {
+    align-items: center;
+  }
 }
 h1 {
   color: blue;
