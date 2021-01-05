@@ -1,26 +1,27 @@
+
 body {
   background-color: powderblue;
   font-family: 'Montserrat', sans-serif;
-
-  #portfolio-pg-header {
-    text-align: center;
-  }
-
-  #projects-header {
-    text-align: center;
-  }
-
-  #about-header {
-    text-align: center;
-  }
-
-  #contact-header {
-    text-align: center;
-  }
 }
 h1 {
   color: blue;
 }
 p {
   color: red;
+}
+
+#portfolio-pg-header {
+  text-align: center;
+}
+
+#projects-header {
+  text-align: center;
+}
+
+#about-header {
+  text-align: center;
+}
+
+#contact-header {
+  text-align: center;
 }
