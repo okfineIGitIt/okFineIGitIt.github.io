@@ -3,19 +3,19 @@ body {
   font-family: 'Montserrat', sans-serif;
 
   #portfolio-pg-header {
-    align-items: center;
+    text-align: center;
   }
 
   #projects-header {
-    align-items: center;
+    text-align: center;
   }
 
   #about-header {
-    align-items: center;
+    text-align: center;
   }
 
   #contact-header {
-    align-items: center;
+    text-align: center;
   }
 }
 h1 {
